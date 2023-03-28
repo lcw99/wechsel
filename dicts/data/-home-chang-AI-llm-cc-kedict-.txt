@@ -1,0 +1,1 @@
+/home/chang/AI/llm/cc-kedict/korean_new.txt
